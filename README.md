@@ -1,4 +1,4 @@
-# Dropwizard Dependency Challenge
+# ✨ Dropwizard Dependency Challenge 🔮
 
 
 ### Setup
