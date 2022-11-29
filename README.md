@@ -9,7 +9,8 @@
 ### Integration
 
 - Integrate the FOSSA CLI to your favorite pipeline.
-- Run a scan on this project.
+- Run a scan on each of these projects listed in this topic; you may fork them.
+  - https://github.com/topics/dropwizard-application
 - Review results.
 
 ### Vulnerabilities
