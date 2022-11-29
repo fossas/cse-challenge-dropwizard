@@ -3,14 +3,14 @@
 
 ### Setup
 
-- Sign up for FOSSA
+- Sign up for FOSSA.
 - Review documentation at https://github.com/fossas/fossa-cli
 
 ### Integration
 
 - Integrate the FOSSA CLI to your favorite pipeline.
 - Run a scan on this project.
-- Review results
+- Review results.
 
 ### Vulnerabilities
 
@@ -34,7 +34,7 @@
   - Feel free to copy the project and run another scan with the desired result.
 - Vendor in a dependency in the project and scan it by providing a fossa-deps.json file. 
   - https://github.com/fossas/fossa-cli/blob/master/docs/references/files/fossa-deps.md#vendored-dependencies
-- Dynamically convert vendors dependencies into a fossa-deps.json
+- Dynamically convert vendored dependencies into a fossa-deps.json.
 - Block a pull request if there’s at least one issue in the project.
 
 ### Compliance Issues (Part 2)
