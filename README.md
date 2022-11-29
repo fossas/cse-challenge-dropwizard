@@ -54,4 +54,4 @@
 
 ### Improvements
 
-- What’s parts of FOSSA do you think can be improved?
+- What parts of FOSSA do you think can be improved?
