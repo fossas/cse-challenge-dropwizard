@@ -8,9 +8,12 @@
 
 ### Integration
 
-- Integrate the FOSSA CLI to your favorite pipeline.
 - Run a scan on each of these projects listed in this [topic](https://github.com/topics/dropwizard-application); you may fork them.
-  - If you run into issues, try to troubleshoot it. :muscle:
+  - Choose your favorite pipeline for integration. Here are some: 
+    - Jenkins
+    - GitHub Actions
+    - Azure DevOps
+  - If you run into CLI issues, try to troubleshoot it. :muscle:
   - _Bonus_ :tada:: If you were able to resolve integration issues, document it somewhere.
 - Review results.
 - _Bonus_ :tada:: Add all projects to a release group called "Dropwizard Release".
