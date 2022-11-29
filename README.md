@@ -12,14 +12,19 @@
 - Run a scan on each of these projects listed in this topic; you may fork them.
   - https://github.com/topics/dropwizard-application
 - Review results.
+- _Bonus_ :tada:: Add all projects to a release group called "Dropwizard Release".
+
 
 ### Vulnerabilities
 
+- Choose a project with some vulnerabilties.
+  - If you need a place to start, `CVE-2019-14892` is raised in one of these projects. :wink:
 - How would you resolve the transitive vulnerabilities?
 - Run a scan again after resolving some vulnerabilities.
 
 ### Compliance Issues
 
+- Choose a project with some compliance issues.
 - How would you resolve the compliance issues?
 - Run a scan again after resolving any compliance issue.
 
