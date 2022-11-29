@@ -55,3 +55,5 @@
 ### Improvements
 
 - What parts of FOSSA do you think can be improved?
+  - Come prepared with any questions or imrpovements.
+    - Bonus points if you present this in a doc or presentation deck!
