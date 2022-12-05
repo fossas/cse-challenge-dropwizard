@@ -4,6 +4,7 @@
 ### Setup
 
 - Sign up for FOSSA.
+- Ask your FOSSA point of contact to upgrade your account.
 - Review documentation at https://github.com/fossas/fossa-cli
 
 ### Integration
